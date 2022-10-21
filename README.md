@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Londrina+Solid&size=40&duration=2000&pause=3000&color=FFA451&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hello%2C+I+am+Jiyeon!)](https://git.io/typing-svg) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appleSimple&show_icons=true&theme=flag-india)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Londrina+Solid&size=40&duration=2000&pause=3000&color=FFA451&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=450&height=150&lines=Hello%2C+I+am+Jiyeon!)](https://git.io/typing-svg) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appleSimple&show_icons=true&theme=flag-india)
 
 <div align="center" border="1px">
 
