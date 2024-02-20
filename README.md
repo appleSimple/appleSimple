@@ -9,8 +9,4 @@
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=ffffff" />
 
-### 👩‍💻 Resume
-<a href="https://applesimple.notion.site/Resume-594e8f1a0e104b5e810958c91bc7bed3?pvs=4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff" />
-</a>
 
